@@ -1,0 +1,22 @@
+{
+  "name": "knitstagram",
+  "version": "1.0.0",
+  "description": "A knitwear Instagram clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsardines/knitstagram.git"
+  },
+  "author": "haley sulcer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tsardines/knitstagram/issues"
+  },
+  "homepage": "https://github.com/Tsardines/knitstagram#readme",
+  "dependencies": {
+    "vue": "^2.5.16"
+  }
+}
